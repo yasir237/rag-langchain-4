@@ -158,7 +158,7 @@ Bu notebook, LangChain ile kurulan RAG serisinin **4. adımıdır.**
 [2] ✅ PromptTemplate ile şablonlu prompt
 [3] ✅ Çoklu zincir kurma ve zincirleri bağlama
 [4] ✅ Metin bölme ve embedding                  ← bu repo
-[5]    ChromaDB vektör veritabanı
+[5]    Vektör store ve benzerlik araması
 [6]    Uçtan uca RAG pipeline
 ```
 
