@@ -159,6 +159,8 @@ Bu notebook, LangChain ile kurulan RAG serisinin **4. adımıdır.**
 [3] ✅ Çoklu zincir kurma ve zincirleri bağlama
 [4] ✅ Metin bölme ve embedding                  ← bu repo
 [5]    Vektör store ve benzerlik araması
+[6]    Function Calling                       
+[7]    Uçtan uca RAG pipeline
 ```
 
 Her adım bir sonrakine köprü kuruyor.  
